@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/somilreactfile/static/css/main.abd64e84.css",
+    "main.js": "/somilreactfile/static/js/main.690414c9.js",
+    "static/js/787.70abc961.chunk.js": "/somilreactfile/static/js/787.70abc961.chunk.js",
+    "index.html": "/somilreactfile/index.html",
+    "main.abd64e84.css.map": "/somilreactfile/static/css/main.abd64e84.css.map",
+    "main.690414c9.js.map": "/somilreactfile/static/js/main.690414c9.js.map",
+    "787.70abc961.chunk.js.map": "/somilreactfile/static/js/787.70abc961.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.690414c9.js"
+  ]
+}
